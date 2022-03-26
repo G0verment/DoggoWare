@@ -39,7 +39,7 @@ function x(tx)
     game.StarterGui:SetCore(
         "SendNotification",
         {
-            Title = "ProjectDonald",
+            Title = "DoggoWare",
             Text = tx,
             Duration = 3.6
         }
