@@ -7,7 +7,7 @@ getgenv().Silent = {
 }
 local Image = {
     Enabled = true,
-    Url = "https://cdn.pixabay.com/photo/2017/02/16/10/20/target-2070972_1280.png"
+    Url = "https://i.pinimg.com/236x/7e/f9/a6/7ef9a6b8c7d25a47f643639730a4c089.jpg?nii=t"
 }
 local Dot = {
     Enabled = true,
